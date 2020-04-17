@@ -15,15 +15,15 @@ body{
 }
 
 .zbytek{
-  max-width: 520px;
+  max-width: 620px;
   margin: auto;
     
 
 }
 .jedna{
     border-radius: 25px;
-    max-width: 600px;
-    width: 600px;
+    max-width: 400px;
+    width: 400px;
     align-items: center;
     text-align: center;
 }
