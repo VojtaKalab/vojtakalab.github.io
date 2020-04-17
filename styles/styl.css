@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Kreon&family=Raleway&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: larger;
+    
+    text-align: left;
+    
+    background-image: url(../images/memphis-colorful.png);
+    padding-bottom: 20px;
+    line-height: 1.5em;
+    
+    
+    
+}
+
+.zbytek{
+  max-width: 620px;
+  margin: auto;
+    
+
+}
+.jedna{
+    border-radius: 25px;
+    max-width: 600px;
+    width: 600px;
+    align-items: center;
+    text-align: center;
+}
+.jedna:hover{
+    box-shadow: 7px 9px 45px 1px rgba(0,0,0,0.75);
+}
+
+h1:hover{
+    color:blue;
+    
+}
+h1{
+    text-align: center;
+    line-height: 1.5em;
+}
+button:hover{
+    background-color: aqua;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(70, 68, 68);
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+ p{
+   text-align: left;
+   font-size: larger;
+ }
+
+ .oranz{
+   background-color: orange;
+ }
+ .stred{
+   text-align: center;
+ }
