@@ -39,6 +39,7 @@ h1{
     text-align: center;
     line-height: 1.5em;
 }
+
 button:hover{
     background-color: aqua;
 }
@@ -80,3 +81,7 @@ ul {
  .stred{
    text-align: center;
  }
+.sirka{
+max-width: 600px;
+    width: 600px;
+}
