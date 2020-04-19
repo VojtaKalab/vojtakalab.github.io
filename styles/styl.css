@@ -82,8 +82,8 @@ ul {
    text-align: center;
  }
 .sirka{
-max-width: 600px;
-    width: 600px;
+max-width: 450px;
+    width: 450px;
     align: center;
     text-align:center;
 }
@@ -92,7 +92,7 @@ align: center;
     text-align: center;
 }
 .mid{
-align: center;
+ align: center;
     text-align: center;
     float: center;
 }
