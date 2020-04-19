@@ -84,4 +84,10 @@ ul {
 .sirka{
 max-width: 600px;
     width: 600px;
+    align: center;
+    text-align:center;
+}
+h2{
+align: center;
+    text-align: center;
 }
